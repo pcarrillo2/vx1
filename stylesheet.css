@@ -1,0 +1,23 @@
+html body {
+   background-color:#1d1f21;
+   /* negro azulado */
+   font-family:Lucida Sans Unicode;
+}
+h1 {
+   color:#42b539;
+   /* verde consola */
+   background-color:black;
+}
+h2, h3, h4{
+   color:#6c8bc3;
+   /* celeste */
+   background-color:#161719;
+   /* plomo */
+}
+a {
+	color:red;
+}
+p{
+	color:#b8bec6;
+	/* plomo claro azulado */
+}
