@@ -1,2 +1,2 @@
 # vx1
-this is my personal lab project
+This is my personal lab project
